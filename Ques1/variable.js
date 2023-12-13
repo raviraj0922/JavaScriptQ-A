@@ -1,5 +1,3 @@
-// variable.js
-
 // Declare variables with different data types
 let stringVariable = "Hello, World!";
 let booleanVariable = true;
